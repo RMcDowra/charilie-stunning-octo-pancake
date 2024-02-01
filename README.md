@@ -1,2 +1,2 @@
-# charilie-stunning-octo-pancake
+# charlie-stunning-octo-pancake
 CIS 376 Spring '24
